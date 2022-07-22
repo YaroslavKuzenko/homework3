@@ -1,0 +1,39 @@
+body{
+    margin: 15px;
+    font-family: Montserrat;
+}
+
+table {
+    table-layout: fixed;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+div{
+    margin-bottom: 15px;
+}
+td{
+    padding: 8px;
+}
+
+th{
+    padding: 8px;
+}
+ .num{
+     margin: 5px;
+     width: 10%;
+ }
+
+ .tab2 .header{
+     background-color: yellow;
+ }
+
+
+ .tab2 .num-item{
+     background-color: aqua;
+ }
+
+ .tab2 .res{
+     background-color: green;
+     font-weight: bold;
+ }
